@@ -1,2 +1,7 @@
 # QuickComplaints
 A responsive web app to streamline student service complaints, enabling issue reporting, status tracking, and secure user management.
+Overview: QuickComplaint is a responsive web application developed between December 2023 and January 2024, designed to address the specific needs of students residing in hostels. The primary goal of the project was to create a user-friendly platform where students could easily report issues related to their room services, such as electricity, Wi-Fi, and other amenities, and track the progress of their complaints.
+
+The project was built using a combination of React, MongoDB, HTML, CSS, and JavaScript, ensuring a seamless and efficient user experience. MongoDB was integrated for secure user authentication and profile management, allowing students to register, log in, and manage their profiles effortlessly. The application also featured a status tracking system, enabling users to monitor the progress of their complaints in real-time.
+
+By focusing on a smooth UI/UX, QuickComplaint enhanced user engagement through easy navigation, making it simple for students to add new complaints, update statuses, and manage their profiles. This project was not only a technical exercise in full-stack development but also a solution to a common problem faced by students, providing them with a convenient platform to ensure their issues are addressed promptly.
