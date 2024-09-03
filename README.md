@@ -1,5 +1,4 @@
 # QuickComplaints
-QuickComplaint
 
 This project was a collaborative effort between me, Rahul Anwala (21EC10053), and my friend, Tony Singh (21CE10075).
 
