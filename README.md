@@ -1,7 +1,13 @@
 # QuickComplaints
-A responsive web app to streamline student service complaints, enabling issue reporting, status tracking, and secure user management.
-Overview: QuickComplaint is a responsive web application developed between December 2023 and January 2024, designed to address the specific needs of students residing in hostels. The primary goal of the project was to create a user-friendly platform where students could easily report issues related to their room services, such as electricity, Wi-Fi, and other amenities, and track the progress of their complaints.
+QuickComplaint
 
-The project was built using a combination of React, MongoDB, HTML, CSS, and JavaScript, ensuring a seamless and efficient user experience. MongoDB was integrated for secure user authentication and profile management, allowing students to register, log in, and manage their profiles effortlessly. The application also featured a status tracking system, enabling users to monitor the progress of their complaints in real-time.
+This project was a collaborative effort between me, Rahul Anwala (21EC10053), and my friend, Tony Singh (21CE10075).
 
-By focusing on a smooth UI/UX, QuickComplaint enhanced user engagement through easy navigation, making it simple for students to add new complaints, update statuses, and manage their profiles. This project was not only a technical exercise in full-stack development but also a solution to a common problem faced by students, providing them with a convenient platform to ensure their issues are addressed promptly.
+QuickComplaint is a responsive web application developed using React that is designed to streamline the process of reporting and tracking issues like electricity and Wi-Fi problems in hostel rooms. The system provides a user-friendly platform for students to ensure their living conditions are well-maintained.
+
+User authentication features include login and signup options, allowing new users to register and existing users to log in. After successful signup, users are directed to a confirmation page and the login page. The main dashboard features a simple header and footer for easy navigation and includes a status page where users can track the progress of their complaints. Additionally, guidance and announcements are displayed to inform users about important updates.
+
+Users can submit complaints by entering their room number and selecting an issue from a dropdown menu. If the problem is not listed, they can choose 'Other' and provide a detailed description. Once submitted, the complaint is added to the status page for tracking. Users also have the option to update their profile information and log out through the profile section in the header.
+
+The project uses React.js for the front end, with React hooks managing component states. Designed to be responsive, the application ensures compatibility across devices and simplifies the reporting and resolution process for hostel issues, demonstrating my ability to create practical solutions with modern web technologies.
+
