@@ -1,6 +1,6 @@
 # QuickComplaints
 
-This project was a collaborative effort between me, Rahul Anwala (21EC10053), and my friend, Tony Singh (21CE10075).
+This project was a collaborative effort between me,Tony Singh (21CE10075) and my friend, Rahul Anwala (21EC10053).
 
 QuickComplaint is a responsive web application developed using React that is designed to streamline the process of reporting and tracking issues like electricity and Wi-Fi problems in hostel rooms. The system provides a user-friendly platform for students to ensure their living conditions are well-maintained.
 
